@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\xiao\xiao\obj\Debug\xiao.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\xiao\xiao\bin\Debug\xiao.dll
+C:\Users\Administrator\Desktop\xiao\xiao\bin\Debug\xiao.pdb
+C:\Users\Administrator\Desktop\xiao\xiao\bin\Debug\PEPlugin.dll
+C:\Users\Administrator\Desktop\xiao\xiao\obj\Debug\xiao.dll
+C:\Users\Administrator\Desktop\xiao\xiao\obj\Debug\xiao.pdb
+C:\Users\Administrator\Desktop\xiao\xiao\bin\Debug\SlimDX.dll
