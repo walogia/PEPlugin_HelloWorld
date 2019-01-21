@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\View\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\View\View\obj\Debug\View.Form1.resources
+C:\Users\Administrator\Desktop\View\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\View\View\bin\Debug\View.dll
+C:\Users\Administrator\Desktop\View\View\bin\Debug\View.pdb
+C:\Users\Administrator\Desktop\View\View\bin\Debug\PEPlugin.dll
+C:\Users\Administrator\Desktop\View\View\bin\Debug\SlimDX.dll
+C:\Users\Administrator\Desktop\View\View\obj\Debug\View.dll
+C:\Users\Administrator\Desktop\View\View\obj\Debug\View.pdb
